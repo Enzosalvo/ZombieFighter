@@ -1,0 +1,43 @@
+
+index:
+
+title: Zombie Fighter - Local de artes marciales
+Content:Local de artes marciales e indumentaria para boxeo, kickboxking, muay thai y boxeo, veni a conocerl
+h1:Veni a Conocer
+h1: Zombie Fighter
+
+
+about:
+
+<title>Local de Boxeo</title>
+content="Nosotros somos una empresa chica, que brindamos accesorios de artes marciales">
+ <h1> Nuestros guantes Nacionales</h1>
+
+articulos:
+<title>Tienda de insumos</title>
+content="Accesorios para todo tipo de artes marciales y boxeo">
+<h1>Accesorios de box - Thai - Kick - Mma</h1>
+
+tibiales:
+<title>Tibiales o shin guard</title>
+content="shin guard o tibiales para proteccion de tibia">
+h1: Shin guard
+
+guantes:
+<title>Guantes de box</title>
+<meta name="description" content="Guantes para todos los estilos">
+h1: Todos los estilos
+
+Galery:
+<title>Fotos de Zombie Fighter</title>
+content="galeria de imagenes del local">
+h1:Imagenes del Local
+
+Bolsas:
+ <title>Bolsa de box o sacos de box</title>
+<meta name="description" content="Bolsas de boxeo, muay thai, kickboxing, mma">
+<h1> Diferentes tipos de Sacos o Bolsas de box   </h1>
+
+contacto:
+ <title>Donde estamos</title>
+ <meta name="description" content="Como llegar al showroom">
